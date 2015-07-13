@@ -1,0 +1,134 @@
+#analytics1                  1
+
+#analytics2                  1
+
+#analytics3                  1
+
+#bigdata                  9
+
+#kdn1                  1
+
+#kdn2                  1
+
+#kdn3                  1
+
+#smb1                  1
+
+#smb2                  1
+
+#smb3                  1
+
+@cxotodayalerts1                  1
+
+@cxotodayalerts2                  1
+
+@cxotodayalerts3                  1
+
+@lavanyarathnam1                  1
+
+@lavanyarathnam2                  1
+
+@lavanyarathnam3                  1
+
+and                  3
+
+answer                  3
+
+astrazeneca                  3
+
+being                  3
+
+big1                  2
+
+big2                  2
+
+big3                  2
+
+business.                  3
+
+businesses:                  3
+
+data                  3
+
+deployed                  3
+
+effective                  3
+
+end                  3
+
+finally                  3
+
+first                  1
+
+for                  6
+
+healthcare                  3
+
+how                  3
+
+http://bddy.me/1bzukb3                  1
+
+http://bddy.me/1bzukb4                  1
+
+http://bddy.me/1bzukb5                  1
+
+http://ow.ly/o8gt3                  1
+
+http://ow.ly/o8gt4                  1
+
+http://ow.ly/o8gt5                  1
+
+http://ow.ly/ot2uj                  1
+
+http://ow.ly/ot3uj                  1
+
+http://ow.ly/ot4uj                  1
+
+interview1:                  1
+
+interview2:                  1
+
+interview3:                  1
+
+is                  9
+
+just                  3
+
+no                  1
+
+nong,                  1
+
+not                  3
+
+of                  3
+
+ok                  1
+
+on                  6
+
+pong,                  1
+
+poverty?                  3
+
+promise                  3
+
+second                  1
+
+shong,                  1
+
+small                  3
+
+the                  7
+
+three                  1
+
+to                  3
+
+wang                  3
+
+xia                  3
+
+yang                  1
+
+yes                  1
+
